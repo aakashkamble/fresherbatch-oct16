@@ -17,3 +17,5 @@ Hello Everyone guy
 >>>>>>> css-assignments
 
 This is my new file generated
+
+Hello guy what are you doing
