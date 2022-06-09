@@ -16,4 +16,14 @@ Hello Everyone guy
  This is my Village
 >>>>>>> css-assignments
 
+<<<<<<< HEAD
 This is new City entered in my life
+=======
+This is my new file generated
+
+Hello guy what are you doing
+
+Hi,My New Job Enetered
+>>>>>>> js-assignments
+
+This is my new home
