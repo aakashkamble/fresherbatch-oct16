@@ -15,3 +15,5 @@ Hello Everyone guy
  this is new file assigned
  This is my Village
 >>>>>>> css-assignments
+
+This is new City entered in my life
