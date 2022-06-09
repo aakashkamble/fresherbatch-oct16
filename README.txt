@@ -19,3 +19,5 @@ Hello Everyone guy
 This is my new file generated
 
 Hello guy what are you doing
+
+Hi,My New Job Enetered
